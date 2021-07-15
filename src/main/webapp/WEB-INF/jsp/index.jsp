@@ -11,6 +11,9 @@
     <title>MIP Page</title>
 </head>
 <body>
+<div style='position:absolute;z-index:999;left:0;top:0;width:100%;height:100%'>
+  <img src='/Users/anilturgut/Desktop/microsoft.jpg' style='width:100%;height:100%' alt='[]' />
+</div>
 <h1>Welcome to the MIP Page ! </h1>
 <h2>Please click the operation you want </h2>
 <p class="center">
